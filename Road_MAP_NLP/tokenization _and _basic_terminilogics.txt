@@ -1,0 +1,21 @@
+Tokenization in NLP
+
+Topics :    
+    1. Corpus                   ------   ( paragraphs of text is called corpus)
+    2. Documnets                ------   ( text of sentence is called Documnets)
+    3. vocabulary               ------   ( unique words (present in dictionary))
+    4. words                    ------   ( all the words which is present in all text)
+
+
+Tokenization:
+
+    Example:
+        suppose we have a paragraph : "my name is  mandeep sharm".and I have more interest to learn ML , NLP and DL"    (corpus)
+
+                After implement tokenization it will tokeize into sentences.
+                
+        first sentence is "my name is mandeep sharma".
+
+
+
+    

@@ -1,0 +1,26 @@
+
+Word Embedding : ->
+    In Natural Processing (NLP) , word embedding is a term used for the representation of words for text analysis, typically in the form of a 
+    real- valued vector that encodes the meaning of the word such that the words that are closer in the vecrtor space are expected to be similar in meaning.
+            
+                                                Word Embedding 
+            count and frequency                                                 Deep Learning Trained model (Deel Learning techniques)
+            
+            1. One Hot Encoding                                                         Word2vec    
+            2. BOW (Bag of Words)                                                           |
+            3. TF-IDF                                                                       |
+                                                                        ____________________|________________________
+                                                                        |                                            |
+                                                                        CBOW                                         SkipGram
+                                                                        
+    Workflow of Word Embedding:
+
+        Suppose we have two words : 
+                a) Happy 
+                b) Excited
+                
+            So here both words have similar  meaning that's why both are placed close together in this number space in vector.
+            if we add one more words like :
+            
+                happy and angry: both are opposite from each other so that's why both are places in two different vectors.
+

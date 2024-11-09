@@ -1,0 +1,52 @@
+Natural language processing in Machine Learning.
+
+
+#   Types of machine learning 
+    1. supervised machine learning
+    2. unsupervised machine learning
+
+        # Type of Supervised machine learning
+
+        1. classification 
+        2. Regression
+
+        Example : features 
+                    input features = f1, f2, f3 f4 ( independent features )
+                    output features = this is known as dependent feature.
+
+
+RoadMap of NLP ->
+Machine learning techniques:
+    1. programing language ( python)
+    2. text preprocessing.
+        Step1 :
+        cleaning the user input.
+            a. tokenization 
+            b. lemmatization
+            c. stemming
+            d. stop words
+        Step2:
+            focus converting text data into vectors 
+            1. bag of words (BOW)
+            2. TF-IDF 
+            3. Unigrams
+            4. Bigrams
+        Step3 :
+            Advance techniques to text preprocessing
+            1. word2vec 
+            2. Avgword2vec
+
+
+Deep leaning techniques
+These are some neurals networks 
+    1. RNN
+    2. LSTM
+    3. GRU
+    4. RNN
+2. word embedding :
+    this techniques alos used to convert text into vectors
+3. Transformers
+4. BERT
+
+
+
